@@ -25,8 +25,6 @@ The project uses credit card transaction datasets containing:
 - PCA transformed features
 - Class label (0 = Legitimate, 1 = Fraud)
 
-⚠ Due to GitHub size limits, full datasets are not uploaded.
-
 ---
 
 ## 🧠 Algorithms Used
